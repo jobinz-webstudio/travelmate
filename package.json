@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kentcdodds/ng-workshop"
+    "url": "https://github.com/jobinz-webstudio/travelmate"
   },
   "keywords": [
     "AngularJS",
     "tutorial",
     "workshop"
   ],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kent.doddsfamily.us)",
+  "author": "jobinz-webstudio",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kentcdodds/ng-workshop/issues"
+    "url": "https://github.com/jobinz-webstudio/travelmate/issues"
   },
-  "homepage": "https://github.com/kentcdodds/ng-workshop"
+  "homepage": "https://github.com/jobinz-webstudio/travelmate"
 }
